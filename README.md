@@ -1,6 +1,3 @@
-<h2 align="left">Hi 👋! My name is Nusaibah Mekkaoui and I'm a Computer Engineer</h2>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NMekks&theme=dark&hide_border=false&include_all_commits=false&count_private=false"  /> <br/>
